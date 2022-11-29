@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BUBURIBU
+- 👋 Hi, I’m @BUBURIBU currently studying BTech at IIT Madras for a degree in CSE .
 - 👀 I’m interested in AI and ML related to 3D digital creation of an real life object .
 - 🌱 I’m currently learning c and java
 - 💞️ I’m looking to collaborate on hackathons and team projrcts of open source development .
